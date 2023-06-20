@@ -48,7 +48,7 @@
 		"react-transition-group": "^4.4.1",
 		"scroll": "^3.0.1",
 		"segseg": "^1.0.0",
-		"semver": "^7.3.4",
+		"semver": "^7.5.2",
 		"tiny-uuid": "^1.0.0",
 		"ua-parser-js": "^0.7.28",
 		"use-error-boundary": "^2.0.6"
